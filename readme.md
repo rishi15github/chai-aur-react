@@ -1,1 +1,2 @@
 # React tutorial 
+### to run a project install node and then clone this repo then open any project directory in terminal and install node modules by "node i" command and then run project by npm run dev.
