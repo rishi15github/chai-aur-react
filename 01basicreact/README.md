@@ -1,6 +1,9 @@
 # Basic of React
 this project is a basic react app created with npx
 
+#### minimal setup for react app 
+##### --- owner Shivam Pratap Singh 
+
 
 # Getting Started with Create React App
 

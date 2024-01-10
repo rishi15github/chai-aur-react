@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+#### minimal setup for react app to make bgchanger
+##### --- owner Shivam Pratap Singh 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

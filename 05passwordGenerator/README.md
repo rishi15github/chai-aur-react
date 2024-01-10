@@ -1,5 +1,8 @@
 # React + Vite
 
+#### minimal vite setup for react app to make password generator with hooks
+##### --- owner Shivam Pratap Singh 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
