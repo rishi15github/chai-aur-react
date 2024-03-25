@@ -1,0 +1,18 @@
+{
+    "editor.quickSuggestions": {
+        "strings": true
+     },
+     "css.validate": false,
+     "editor.inlineSuggest.enabled": true,
+
+     "tailwindCSS.includeLanguages": {
+        "html": "html",
+        "javascript": "javascript",
+        "css": "css"
+    },
+
+    
+      
+
+   
+}
